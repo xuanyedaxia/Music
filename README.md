@@ -1,1 +1,2 @@
-# Music
+# Android练习demo 音乐软件
+学习Android一周开发的一款音乐软件音乐数据源来源于网易云音乐
